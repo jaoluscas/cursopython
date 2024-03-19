@@ -6,7 +6,7 @@
     
 #     def dentro():
 #         # print(locals())
-#         print(dentro.__code__.co_freevars)
+#         print(dentro.__code__.co_freevars
 #         return a
 #     return dentro
 
